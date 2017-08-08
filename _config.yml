@@ -1,0 +1,8 @@
+title: Machine learning for software engineers
+description: A complete daily plan for studying to become a machine learning engineer.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
